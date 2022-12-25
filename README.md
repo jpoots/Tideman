@@ -5,6 +5,14 @@ This project is an implementation of the Tideman voting system in C. It makes us
 
 Descriptions of the functions completed as part of the project have been obtained from the project website. Further details of the project can be found at https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
 
+### Usage
+
+./tideman Alice Bob Charlie
+
+Where Alice, Bob and Charlie are the names of the candidates. Up to 9 candidates can be used. The user will then be prompted to input the number of voters and their voting preferences. The program will return the winner.
+
+### Functions
+
 #### vote
 This function takes arguments rank, name, and ranks. If name is a match for the name of a valid candidate, then it will update the ranks array to indicate that the voter has the candidate as their rank preference (where 0 is the first preference, 1 is the second preference, etc.)
 
