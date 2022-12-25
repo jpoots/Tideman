@@ -3,7 +3,7 @@
 ### About
 This project is an implementation of the Tideman voting system in C. It makes use of a sorting algorithm and recursion. I produced this in the early stages of learning to program. Starter code for this project was obtained from https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
 
-Descriptions of the functions completed as part of the project have been obtained from the project website.
+Descriptions of the functions completed as part of the project have been obtained from the project website. Further details of the project can be found at https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
 
 #### vote
 This function takes arguments rank, name, and ranks. If name is a match for the name of a valid candidate, then it will update the ranks array to indicate that the voter has the candidate as their rank preference (where 0 is the first preference, 1 is the second preference, etc.)
