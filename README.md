@@ -1,7 +1,7 @@
 # CS50x Project 3
 ## Tideman
 ### About
-This project is an implementation of the Tideman voting system in C. It makes use of a sorting algorithm and recursion. I produced this in the early stages of learning to program. Starter code for this project was obtained from https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
+This project is an implementation of the Tideman voting system in C. It makes use of a sorting algorithm and recursion. I produced this in the early stages of learning to program. Starter code and additional files for this project have been obtained from https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
 
 Descriptions of the functions completed as part of the project have been obtained from the project website. Further details of the project can be found at https://cdn.cs50.net/2021/fall/psets/3/tideman.zip.
 
